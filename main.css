@@ -1,0 +1,22 @@
+body{
+	font-family: "Avenir";
+}
+
+header{
+	padding: 200px;
+}
+
+section{
+	padding: 5vh 15vw;
+	min-height: 40vh;
+}
+
+footer{
+	padding: 10px;
+	font-size: 0.8rem;
+}
+
+.card-title{
+	font-weight: 900;
+	font-size: 1.5rem;
+}
