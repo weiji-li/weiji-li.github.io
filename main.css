@@ -1,5 +1,6 @@
 body{
 	font-family: "Avenir";
+	position: relative;
 }
 
 .container{
@@ -7,8 +8,17 @@ body{
 }
 
 header{
-	padding: 300px 100px;
+	padding: 300px 50px 50px 50px;
 	min-height: 100vh;
+}
+
+h1{
+	font-size: 4rem;
+}
+
+#scroll_down_button{
+	padding-bottom: 50px;
+	padding-top: 200px;
 }
 
 section{
